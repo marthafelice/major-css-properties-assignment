@@ -1,0 +1,34 @@
+* body{
+    padding: 10px;
+    margin: 50px;
+}
+h1{
+    font-size: 18px;
+}
+
+
+.first-section{
+    color:green;
+    border: 3px  solid;
+    margin: 20px;
+    padding:30px
+
+}
+
+b, i {
+    font-size: 14px;
+}
+.second-section{
+    color:red;
+    border: 3px  solid;
+    margin: 20px;
+    padding:30px
+
+}
+
+.third-section{
+    color:blue;
+    border: 3px  solid;
+    margin: 20px;
+    padding:30px
+}
